@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+안녕하세요!😄 주니어 프론트엔드 개발자 @saemii-24(a.k.a 새미) 입니다.
