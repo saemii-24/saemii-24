@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-안녕하세요!😄 예비 프론트엔드 개발자 @saemii-24(a.k.a 새미) 입니다.
+프론트엔드 개발자 @saemii-24(a.k.a 새미) 입니다.
